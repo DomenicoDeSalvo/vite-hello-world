@@ -1,14 +1,14 @@
 
 <script>
-  export default{
-  }
+export default{
 
+}
 </script>
 
 <template>
 
   <div>
-    <h1 class="title">{{title}}</h1>
+    <h1 class="title">La mia prima app con Vite</h1>
   </div>
 
 </template>

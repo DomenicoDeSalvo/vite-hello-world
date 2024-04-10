@@ -1,5 +1,5 @@
 <script>
-import { AppTitle } from "./components/AppTitle.vue";
+import AppTitle from "./components/AppTitle.vue";
 
 export default{
   components: {
@@ -10,5 +10,8 @@ export default{
 </script>
 
 <template>
-    <AppTitle title="La mia prima app con Vite"/>
+  <AppTitle/>
 </template>
+
+<style>
+</style>
